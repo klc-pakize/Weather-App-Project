@@ -10,3 +10,5 @@
 <li>User can display weather data of searched city in weather card.</li>
 <li>Hava durumu verileri listesinde yeni aranan şehir varsa, uygulama kullanıcıya sayfada bir uyarı metni gösterebilir.</li>
 </ul>
+
+https://klc-pakize.github.io/Weather-App-Project/
